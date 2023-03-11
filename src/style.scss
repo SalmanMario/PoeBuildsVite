@@ -1,0 +1,73 @@
+body,
+.card {
+  background-color: rgb(31, 29, 29);
+  color: white;
+  min-height: 850px;
+  max-height: 950px;
+  margin-bottom: 20px;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
+
+h1,
+h2 {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+}
+
+h4,
+h5 {
+  font-family: "montserrat", sans-serif;
+  font-weight: 700;
+}
+
+.d-flex {
+  margin: 4rem 0 1rem 0;
+}
+
+.navbar {
+  padding: 0 20px;
+}
+
+footer {
+  text-align: center;
+  color: black;
+  background-color: white;
+  font-size: 1.5rem;
+  margin: 25px 0;
+}
+
+footer p {
+  padding: 5px 0;
+}
+
+img {
+  width: 100%;
+  max-height: 650px;
+  object-fit: cover;
+  margin-bottom: 20px;
+}
+
+.card p,
+.card a,
+.card span,
+.card img {
+  margin: 5px 0;
+  padding: 0;
+}
+.container a {
+  text-decoration: none;
+  color: #eb5418;
+}
+
+.currency {
+  width: 25px;
+  margin-top: 15px;
+}
+
+
