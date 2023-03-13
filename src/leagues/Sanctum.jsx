@@ -1,10 +1,10 @@
 import React from "react";
 import Card from "../Components/Card";
-import { DELIRIUM } from "../DataBase";
-import { DELIRIUM_TOP } from "../TopDataBase";
+import { SANCTUM } from "../DataBase";
+import { SANCTUM_TOP } from "../TopDataBase";
 
-export default function Delirium() {
-  const { startDate, endDate, trailer, trailerImg } = DELIRIUM_TOP;
+export default function Sanctum() {
+  const { startDate, endDate, trailer, trailerImg } = SANCTUM_TOP;
   console.log(startDate);
   return (
     <div>
@@ -20,7 +20,7 @@ export default function Delirium() {
         </div>
         <div className="container">
           <div className="row">
-            {DELIRIUM.map((elem) => (
+            {SANCTUM.map((elem) => (
               <Card data={elem} />
             ))}
           </div>

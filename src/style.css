@@ -67,6 +67,10 @@ img {
   margin-top: 1rem;
 }
 
+.card-body .currency {
+  margin-left: 5px;
+}
+
 .color-container {
   background-color: rgb(23, 25, 27);
 }
@@ -75,4 +79,8 @@ img {
 h2 {
   color: white;
   margin-top: 1rem;
+}
+
+.card-body .uniques {
+  margin-right: 5px;
 }

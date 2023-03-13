@@ -13,6 +13,7 @@ import Expedition from "./leagues/Expedition";
 import Siege from "./leagues/Siege";
 import Sentinel from "./leagues/Sentinel";
 import Lake from "./leagues/Lake";
+import Sanctum from "./leagues/Sanctum";
 
 import Footer from "./Components/Footer";
 import "./style.css";
@@ -33,6 +34,7 @@ export default function App() {
         <Route path="/Siege" element={<Siege />} />
         <Route path="/Sentinel" element={<Sentinel />} />
         <Route path="/Lake" element={<Lake />} />
+        <Route path="/Sanctum" element={<Sanctum />} />
       </Routes>
       <Footer />
     </div>

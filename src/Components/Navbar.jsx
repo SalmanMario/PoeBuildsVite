@@ -73,6 +73,11 @@ export default function Navbar() {
                   Lake of Kalandra
                 </Link>
               </li>
+              <li className="nav-item">
+                <Link className="nav-link" to="/Sanctum">
+                  The Forbidden Sanctum
+                </Link>
+              </li>
             </ul>
           </div>
         </div>

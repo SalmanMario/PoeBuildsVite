@@ -33,3 +33,45 @@ export const ECHOES_TOP = {
     trailer: "https://www.youtube.com/watch?v=64ZgB6qHJmc&t=0s&ab_channel=PathofExile",
     trailerImg: "https://cdn2.unrealengine.com/egsfeatureimage-1920x1080-78d3ba9eb850.png"
 };
+
+export const ULTIMATUM_TOP = {
+    startDate: "Release Date: 2021-04-16",
+    endDate: "End Date: 2021-07-19",
+    trailer: "https://www.youtube.com/watch?v=52cm3aqo9Gw&t=0s&ab_channel=PathofExile",
+    trailerImg: "https://news.xbox.com/en-us/wp-content/uploads/sites/2/2021/04/POEUltimatum_KeyArtHorizontal.jpg"
+};
+
+export const EXPEDITION_TOP = {
+    startDate: "Release Date: 2021-07-23",
+    endDate: "End Date: 2021-10-18",
+    trailer: "https://www.youtube.com/watch?v=mT_aoGoMm50&ab_channel=PathofExile",
+    trailerImg: "https://cdn.player.one/sites/player.one/files/2021/07/29/path-exile-expedition.jpg"
+};
+
+export const SIEGE_TOP = {
+    startDate: "Release Date: 2022-02-04",
+    endDate: "End Date: 2022-05-10",
+    trailer: "https://www.youtube.com/watch?v=C4BLh5l8VA0&ab_channel=PathofExile",
+    trailerImg: "https://news.xbox.com/en-us/wp-content/uploads/sites/2/2022/01/1.jpg"
+};
+
+export const SENTINEL_TOP = {
+    startDate: "Release Date: 2022-05-13",
+    endDate: "End Date: 2022-08-16",
+    trailer: "https://www.youtube.com/watch?v=1ZqjpVjCcdM&t=0s&ab_channel=PathofExile",
+    trailerImg: "https://i.ytimg.com/vi/OlE4f3nx_KE/maxresdefault.jpg"
+};
+
+export const LAKE_TOP = {
+    startDate: "Release Date: 2022-08-19",
+    endDate: "End Date: 2022-12-06",
+    trailer: "https://www.youtube.com/watch?v=cWChrPIFiME&t=2s&ab_channel=PathofExile",
+    trailerImg: "https://i.ytimg.com/vi/jA0OamQ63Ds/maxresdefault.jpg"
+};
+
+export const SANCTUM_TOP = {
+    startDate: "Release Date: 2022-12-9",
+    endDate: "End Date: 2022-04-01",
+    trailer: "https://www.youtube.com/watch?v=sxpOaZjU5xg&t=0s&ab_channel=PathofExile",
+    trailerImg: "https://pbs.twimg.com/media/Fi6nntQaYAAzicn?format=jpg&name=4096x4096"
+};
