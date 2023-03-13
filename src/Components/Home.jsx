@@ -4,10 +4,7 @@ export default function Home() {
   return (
     <div className="color-container">
       <div className="container">
-        <img
-          src="https://images5.alphacoders.com/547/thumb-1920-547295.jpghttps://images5.alphacoders.com/547/thumb-1920-547295.jpg"
-          alt="wallpaper"
-        />
+        <img src="https://images5.alphacoders.com/547/thumb-1920-547295.jpg" alt="wallpaper" />
         <h1 className="text-center">Path Of Exile Builds</h1>
         <h2 className="text-center mb-5">Current Patch: 3.20</h2>
         <div className="row">
